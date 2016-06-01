@@ -1,6 +1,6 @@
 <?php
 	// insert script to : /wp-content/themes/THEME_NAME/header.php
-	// upload to home directory, DO NOT UPLOAD TO /home/USER/public_html/
+	// save log to home directory, DO NOT SAVE TO /home/USER/public_html/
 	class AccessLogs {
 		public function execute($targetFile) {
 	        date_default_timezone_set('Asia/Bangkok');
