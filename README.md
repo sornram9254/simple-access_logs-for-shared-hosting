@@ -1,4 +1,4 @@
-# simple-access_logs-for-shared-hosting
+# simple-access_logs-for-shared-hosting [custom access log]
 
 for wordpress<br />
 insert script to : /wp-content/themes/THEME_NAME/header.php<br />
